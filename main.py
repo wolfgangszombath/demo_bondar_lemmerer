@@ -1,3 +1,6 @@
 print("Hello World!")
-name = input("Dein Name?")
-print(name)
+vorname = input("Dein Vorname?")
+nachname = input("Dein Nachname?")
+print("Ausgabe")
+
+
